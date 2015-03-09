@@ -1,0 +1,3 @@
+这个是个简单url，使用的webdriver的PhantomJS的浏览器来使用。
+
+通过设置User-Agent，分别看Mobile，PC的浏览器下爬虫的效果不一样。
